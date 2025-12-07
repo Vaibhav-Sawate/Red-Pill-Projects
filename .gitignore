@@ -1,0 +1,14 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Tauri / Electron builds
+target/
+*.dmg
+*.exe
+*.AppImage
+
+# OS
+.DS_Store
+Thumbs.db
